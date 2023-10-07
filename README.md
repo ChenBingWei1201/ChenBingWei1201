@@ -15,5 +15,3 @@ Here are some ideas to get you started:
 -->
 ## Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChenBingWei1201&show_icons=true&theme=radical)
-## Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChenBingWei1201&theme=radical&border_radius=10%&size_weight=0.5&count_weight=0.5)
