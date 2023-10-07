@@ -13,5 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>so cool!<h1/>
-<a href=#><img src="contributions.svg"></a> 
+
