@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=4285F4)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=Express&logoColor=FFFFFF)
 ![Prisma](https://img.shields.io/badge/-Prisma-000000?style=flat&logo=Prisma&logoColor=FFFFFF)
-![NPM](https://img.shields.io/badge/-NPM-000000?style=flat&logo=npm&logoColor=339933)
+![NPM](https://img.shields.io/badge/-NPM-000000?style=flat&logo=npm&logoColor=F05032)
 ![PNPM](https://img.shields.io/badge/-PNPM-000000?style=flat&logo=pnpm&logoColor=FFA500)
 ![Yarn](https://img.shields.io/badge/-Yarn-000000?style=flat&logo=yarn&logoColor=007ACC)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
