@@ -40,9 +40,6 @@ Here are some ideas to get you started:
 ![Go](https://img.shields.io/badge/-Go-000000?style=flat&logo=go&logoColor=29BEB0)
 
 ## Stats
-<div>
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ChenBingWei1201&theme=radical)
 ![Most Commit Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChenBingWei1201&theme=radical)
-<div/>
-
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChenBingWei1201&theme=radical)
