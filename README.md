@@ -22,7 +22,9 @@ Here are some ideas to get you started:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
 
 ## Services & Frameworks
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000000?style=flat&logo=tailwindcss&logoColor=00FFFF)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=4285F4)
+![NextJS](https://img.shields.io/badge/-NextJS-000000?style=flat&logo=next.js&logoColor=FFFFFF)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=Express&logoColor=FFFFFF)
 ![Prisma](https://img.shields.io/badge/-Prisma-000000?style=flat&logo=Prisma&logoColor=FFFFFF)
 ![NPM](https://img.shields.io/badge/-NPM-000000?style=flat&logo=npm&logoColor=F05032)
@@ -35,7 +37,7 @@ Here are some ideas to get you started:
 ![GraphQL](https://img.shields.io/badge/-GraphQL-000000?style=flat&logo=graphql&logoColor=E535AB)
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker&logoColor=4285F4)
 
-## Dream
+## Learning & Dreams
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=B7410E)
 ![Go](https://img.shields.io/badge/-Go-000000?style=flat&logo=go&logoColor=29BEB0)
 
