@@ -1,4 +1,3 @@
-
 <!--
 **ChenBingWei1201/ChenBingWei1201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ## Languages
+
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=CPlusPlus&logoColor=4285F4)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
 
 ## Services & Frameworks
+
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000000?style=flat&logo=tailwindcss&logoColor=00FFFF)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=4285F4)
 ![NextJS](https://img.shields.io/badge/-NextJS-000000?style=flat&logo=next.js&logoColor=FFFFFF)
@@ -38,10 +39,13 @@ Here are some ideas to get you started:
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker&logoColor=4285F4)
 
 ## Learning & Dreams
+
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=B7410E)
 ![Go](https://img.shields.io/badge/-Go-000000?style=flat&logo=go&logoColor=29BEB0)
+![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C&logoColor=4285F4)
 
 ## Stats
+
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ChenBingWei1201&theme=radical)
 ![Most Commit Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChenBingWei1201&theme=radical)
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChenBingWei1201&theme=radical)
