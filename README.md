@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## Languages
 
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=CPlusPlus&logoColor=4285F4)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=CPlusPlus&logoColor=FF00FF)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
@@ -24,10 +24,12 @@ Here are some ideas to get you started:
 ## Services & Frameworks
 
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000000?style=flat&logo=tailwindcss&logoColor=00FFFF)
+![Vite](https://img.shields.io/badge/-Vite-000000?style=flat&logo=vite&logoColor=FFFF00)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=4285F4)
 ![NextJS](https://img.shields.io/badge/-NextJS-000000?style=flat&logo=next.js&logoColor=FFFFFF)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=Express&logoColor=FFFFFF)
 ![Prisma](https://img.shields.io/badge/-Prisma-000000?style=flat&logo=Prisma&logoColor=FFFFFF)
+![GraphQL](https://img.shields.io/badge/-GraphQL-000000?style=flat&logo=graphql&logoColor=E535AB)
 ![NPM](https://img.shields.io/badge/-NPM-000000?style=flat&logo=npm&logoColor=F05032)
 ![PNPM](https://img.shields.io/badge/-PNPM-000000?style=flat&logo=pnpm&logoColor=FFA500)
 ![Yarn](https://img.shields.io/badge/-Yarn-000000?style=flat&logo=yarn&logoColor=007ACC)
@@ -35,7 +37,8 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&logoColor=339933)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=0064a5)
-![GraphQL](https://img.shields.io/badge/-GraphQL-000000?style=flat&logo=graphql&logoColor=E535AB)
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&logoColor=F29111)
+![Redis](https://img.shields.io/badge/-Redis-000000?style=flat&logo=redis&logoColor=D82C20)
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker&logoColor=4285F4)
 
 ## Learning & Dreams
