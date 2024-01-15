@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## Languages
 
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=CPlusPlus&logoColor=FF00FF)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=CPlusPlus&logoColor=F34B7D)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
