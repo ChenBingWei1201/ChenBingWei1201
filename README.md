@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=CPlusPlus&logoColor=F34B7D)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
 
