@@ -37,7 +37,6 @@ Here are some ideas to get you started:
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&logoColor=339933)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=0064a5)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&logoColor=F29111)
-![Redis](https://img.shields.io/badge/-Redis-000000?style=flat&logo=redis&logoColor=D82C20)
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker&logoColor=4285F4)
 
 ## Learning & Dreams
@@ -45,6 +44,7 @@ Here are some ideas to get you started:
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=B7410E)
 ![Go](https://img.shields.io/badge/-Go-000000?style=flat&logo=go&logoColor=29BEB0)
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C&logoColor=4285F4)
+![Redis](https://img.shields.io/badge/-Redis-000000?style=flat&logo=redis&logoColor=D82C20)
 
 ## Stats
 
