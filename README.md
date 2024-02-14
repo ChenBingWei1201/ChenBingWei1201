@@ -39,12 +39,15 @@ Here are some ideas to get you started:
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&logoColor=F29111)
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker&logoColor=4285F4)
 
-## Learning & Dreams
+## Learning
 
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=B7410E)
-![Go](https://img.shields.io/badge/-Go-000000?style=flat&logo=go&logoColor=29BEB0)
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C&logoColor=4285F4)
+![Go](https://img.shields.io/badge/-Go-000000?style=flat&logo=go&logoColor=29BEB0)
 ![Redis](https://img.shields.io/badge/-Redis-000000?style=flat&logo=redis&logoColor=D82C20)
+![Jenkins](https://img.shields.io/badge/-Jenkins-000000?style=flat&logo=jenkins&logoColor=FFFFFF)
+![Playwright](https://img.shields.io/badge/-Playwright-000000?style=flat&logo=playwright&logoColor=00FF00)
+![Jest](https://img.shields.io/badge/-Jest-000000?style=flat&logo=jest&logoColor=C63D14)
 
 ## Stats
 
