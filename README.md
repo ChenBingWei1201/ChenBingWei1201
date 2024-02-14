@@ -33,7 +33,6 @@ Here are some ideas to get you started:
 ![PNPM](https://img.shields.io/badge/-PNPM-000000?style=flat&logo=pnpm&logoColor=FFA500)
 ![Yarn](https://img.shields.io/badge/-Yarn-000000?style=flat&logo=yarn&logoColor=007ACC)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&logoColor=339933)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=0064a5)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&logoColor=F29111)
@@ -41,8 +40,9 @@ Here are some ideas to get you started:
 
 ## Learning
 
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=B7410E)
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C&logoColor=4285F4)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=B7410E)
+![GitHub](https://img.shields.io/badge/-GitHubAPI-000000?style=flat&logo=github&logoColor=FFFFFF)
 ![Go](https://img.shields.io/badge/-Go-000000?style=flat&logo=go&logoColor=29BEB0)
 ![Redis](https://img.shields.io/badge/-Redis-000000?style=flat&logo=redis&logoColor=D82C20)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-000000?style=flat&logo=jenkins&logoColor=FFFFFF)
