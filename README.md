@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
+![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C&logoColor=4285F4)
 
 ## Services & Frameworks
 
@@ -40,7 +41,6 @@ Here are some ideas to get you started:
 
 ## Learning
 
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C&logoColor=4285F4)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=B7410E)
 ![GitHub](https://img.shields.io/badge/-GitHubAPI-000000?style=flat&logo=github&logoColor=FFFFFF)
 ![Go](https://img.shields.io/badge/-Go-000000?style=flat&logo=go&logoColor=29BEB0)
@@ -53,6 +53,7 @@ Here are some ideas to get you started:
 ![Jenkins](https://img.shields.io/badge/-Jenkins-000000?style=flat&logo=jenkins&logoColor=FFFFFF)
 ![Playwright](https://img.shields.io/badge/-Playwright-000000?style=flat&logo=playwright&logoColor=00FF00)
 ![Jest](https://img.shields.io/badge/-Jest-000000?style=flat&logo=jest&logoColor=C63D14)
+![ArgoCD](https://img.shields.io/badge/-ArgoCD-000000?style=flat&logo=argo&logoColor=FC7F44)
 
 ## Stats
 
