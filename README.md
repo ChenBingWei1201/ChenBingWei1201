@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C&logoColor=4285F4)
+![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C&logoColor=808080)
 
 ## Services & Frameworks
 
