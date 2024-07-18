@@ -51,7 +51,6 @@ Here are some ideas to get you started:
 ![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter&logoColor=027DFD)
 ![Redis](https://img.shields.io/badge/-Redis-000000?style=flat&logo=redis&logoColor=D82C20)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-000000?style=flat&logo=jenkins&logoColor=FFFFFF)
-![Playwright](https://img.shields.io/badge/-Playwright-000000?style=flat&logo=pilaywright&logoColor=00FF00)
 ![Jest](https://img.shields.io/badge/-Jest-000000?style=flat&logo=jest&logoColor=C63D14)
 ![ArgoCD](https://img.shields.io/badge/-ArgoCD-000000?style=flat&logo=argo&logoColor=FC7F44)
 ![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=AmazonWebServices&logoColor=F48120)
