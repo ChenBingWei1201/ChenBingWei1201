@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 ## Languages
 
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=CPlusPlus&logoColor=F34B7D)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C&logoColor=808080)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 
 ## Services & Frameworks
 
@@ -38,9 +38,13 @@ Here are some ideas to get you started:
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=0064a5)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&logoColor=F29111)
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker&logoColor=4285F4)
+![Disqus](https://img.shields.io/badge/-Disqus-000000?style=flat&logo=Disqus&logoColor=2E9FFF)
+![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=Firebase&logoColor=F6820D)
+![Supabase](https://img.shields.io/badge/-Supabase-000000?style=flat&logo=Supabase&logoColor=3ECF8E)
 
 ## Learning
 
+![Solidity](https://img.shields.io/badge/-Solidity-000000?style=flat&logo=Solidity&logoColor=BBBBBB)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=B7410E)
 ![GitHub](https://img.shields.io/badge/-GitHubAPI-000000?style=flat&logo=github&logoColor=FFFFFF)
 ![Go](https://img.shields.io/badge/-Go-000000?style=flat&logo=go&logoColor=29BEB0)
