@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C&logoColor=808080)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![Solidity](https://img.shields.io/badge/-Solidity-000000?style=flat&logo=Solidity&logoColor=BBBBBB)
 
 ## Services & Frameworks
 
@@ -44,7 +45,6 @@ Here are some ideas to get you started:
 
 ## Learning
 
-![Solidity](https://img.shields.io/badge/-Solidity-000000?style=flat&logo=Solidity&logoColor=BBBBBB)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=B7410E)
 ![GitHub](https://img.shields.io/badge/-GitHubAPI-000000?style=flat&logo=github&logoColor=FFFFFF)
 ![Go](https://img.shields.io/badge/-Go-000000?style=flat&logo=go&logoColor=29BEB0)
