@@ -47,7 +47,6 @@ Here are some ideas to get you started:
 ## Learning
 
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=B7410E)
-![GitHub](https://img.shields.io/badge/-GitHubAPI-000000?style=flat&logo=github&logoColor=FFFFFF)
 ![Go](https://img.shields.io/badge/-Go-000000?style=flat&logo=go&logoColor=29BEB0)
 ![React Native](https://img.shields.io/badge/-ReactNative-000000?style=flat&logo=react&logoColor=61DAFB)
 ![Android](https://img.shields.io/badge/-Android-000000?style=flat&logo=android&logoColor=3DDC84)
@@ -63,5 +62,5 @@ Here are some ideas to get you started:
 ## Stats
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ChenBingWei1201&theme=radical)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChenBingWei1201&langs_count=6&layout=compact&theme=radical&exclude_repo=ubuntu-config,ML-learn,taipei-codefest-lbj)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChenBingWei1201&langs_count=8&layout=compact&theme=radical&exclude_repo=ubuntu-config,ML-learn,taipei-codefest-lbj)
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChenBingWei1201&theme=radical)
