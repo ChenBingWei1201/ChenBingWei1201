@@ -62,5 +62,5 @@ Here are some ideas to get you started:
 ## Stats
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ChenBingWei1201&theme=radical)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChenBingWei1201&langs_count=8&layout=compact&theme=radical&exclude_repo=ubuntu-config,ML-learn,taipei-codefest-lbj)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChenBingWei1201&langs_count=6&layout=compact&theme=radical&exclude_repo=ubuntu-config,ML-learn,taipei-codefest-lbj)
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChenBingWei1201&theme=radical)
